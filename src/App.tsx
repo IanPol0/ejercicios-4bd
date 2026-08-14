@@ -1,6 +1,5 @@
 
-import Avatar
- from './components/avatar'
+import Avatar from './components/Avatar'
 function App() {
   return (
     <>
@@ -8,6 +7,6 @@ function App() {
       <Avatar title="Ian" subtitle="Polonuer" imgSrc="" description="" />
     </>
   )
-} 
+}
 
 export default App
